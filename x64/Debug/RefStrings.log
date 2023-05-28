@@ -1,0 +1,4 @@
+﻿  RefStrings.cpp
+D:\Katya\files\Универ\4 семестр универ\САОД\RefStrings\RefStrings.cpp(8,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Katya\files\Универ\4 семестр универ\САОД\RefStrings\Str.h(63,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  RefStrings.vcxproj -> D:\Katya\files\Универ\4 семестр универ\САОД\RefStrings\x64\Debug\RefStrings.exe
